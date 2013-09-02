@@ -36,7 +36,7 @@
         </property>
       </activation>
       <properties>
-        <forge.build>818</forge.build>
+        <forge.build>804</forge.build>
       </properties>
     </profile> 
     <profile>
