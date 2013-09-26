@@ -112,8 +112,6 @@
                             <param>https://s3.amazonaws.com/Minecraft.Download/versions/${minecraft.version}/minecraft_server.${minecraft.version}.jar</param>
                             <param>https://s3.amazonaws.com/Minecraft.Download/versions/${minecraft.version}/${minecraft.version}.jar</param>
                             <param>http://files.minecraftforge.net/minecraftforge/minecraftforge-universal-${minecraft.version}-${forge.version}.jar</param>
-                            <param>http://repo.zephyr-mc.com/content/groups/public/net/minecraft/launchwrapper/launchwrapper/1.3/launchwrapper-1.3.jar</param>
-                            <param>https://oss.sonatype.org/content/groups/public/net/sf/jopt-simple/jopt-simple/4.5/jopt-simple-4.5.jar</param>
                         </inJars>
                         <srgIn>${mcp.mappings}</srgIn> <!-- obf -> mcp csvnames for development -->
                         <accessTransformers>
